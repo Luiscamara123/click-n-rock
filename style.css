@@ -367,7 +367,7 @@ footer{
         display: flex;
         justify-content: center;
     }
-    #carouselFinancas img.d-blok.w-100 {
+    #carouselBanner img.d-blok.w-100 {
         height: 250px;
         object-fit: cover;
     }
