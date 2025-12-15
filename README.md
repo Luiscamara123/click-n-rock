@@ -2,7 +2,7 @@
 
 Este projeto consiste no desenvolvimento de uma loja virtual de artigos de rock, criada com foco na apresentação visual, organização dos produtos e experiência do usuário. Embora a loja não seja funcional no momento — pois depende da implementação de um banco de dados e de integrações de back-end para possibilitar compras, cadastro e demais operações — o projeto cumpre seu objetivo como protótipo navegável e demonstração prática das minhas habilidades em front-end.
 
-![Prévia do Projeto](./ReadmeImg/Imagem.png)
+![Prévia do Projeto](./ReadmeImg/Imagem1.png)
 
 
 ---
