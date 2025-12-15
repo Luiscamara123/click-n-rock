@@ -18,12 +18,12 @@ Layout responsivo
 ---
 ## 🎸 Tecnologias Utilizadas
 
--HTML5
--CSS3
--JavaScript (ES6+)
--VS Code
--Git e GitHub
--Bootstrap
+- HTML5
+- CSS3
+- JavaScript (ES6+)
+- VS Code
+- Git e GitHub
+- Bootstrap
 
 
 ---
@@ -51,16 +51,16 @@ https://github.com/bryanalunosenac-boop/Senac.git
 ---
 ## 🎸 Melhorias futuras
 
--Organização na estrutura de códigos
--Funções com a Linguagem JavaScrpit
--Aprimoramento de validações com JavaScrpit
--Melhorar a aparência do carrinho
+- Organização na estrutura de códigos
+- Funções com a Linguagem JavaScrpit
+- Aprimoramento de validações com JavaScrpit
+- Melhorar a aparência do carrinho
 
 ---
 ## 🎸 O que eu aprendi?
 
--Responsividade e layout com CSS
--Estrutura e validação de códigos com JavaScript
+- Responsividade e layout com CSS
+- Estrutura e validação de códigos com JavaScript
 
 ---
 ## 🎸 Autor
