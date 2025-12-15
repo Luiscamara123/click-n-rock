@@ -2,9 +2,11 @@
 
 Este projeto consiste no desenvolvimento de uma loja virtual de artigos de rock, criada com foco na apresentação visual, organização dos produtos e experiência do usuário. Embora a loja não seja funcional no momento — pois depende da implementação de um banco de dados e de integrações de back-end para possibilitar compras, cadastro e demais operações — o projeto cumpre seu objetivo como protótipo navegável e demonstração prática das minhas habilidades em front-end.
 
+![Prévia do Projeto](./ReadmeImg/Imagem.png)
+
 
 ---
-## ⚙️ Funcionalidades
+## 🎸 Funcionalidades
 
 Uma loja de compras virtual
 Validação de campos
@@ -12,7 +14,7 @@ Layout responsivo
 
 
 ---
-## 🌐 Tecnologias Utilizadas
+## 🎸 Tecnologias Utilizadas
 
 -HTML5
 -CSS3
@@ -23,7 +25,7 @@ Layout responsivo
 
 
 ---
-## 💿 Como rodar o projeto​?
+## 🎸 Como rodar o projeto​?
 
 1 Baixe o repositório (Clique no Botão “Code” > Download ZIP)​
 
@@ -35,7 +37,7 @@ Acesse o projeto online https://bryanalunosenac-boop.github.io/Senac/Click-N-Roc
 
 
 ---
-## 🧬 Como clonar o projeto
+## 🎸 Como clonar o projeto
 ​
 No terminal do VS Code digite:​git clone https://github.com/bryanalunosenac-boop/Senac.git
 
@@ -45,7 +47,7 @@ https://github.com/bryanalunosenac-boop/Senac.git
 
 
 ---
-## 🏆 Melhorias futuras
+## 🎸 Melhorias futuras
 
 -Organização na estrutura de códigos
 -Funções com a Linguagem JavaScrpit
@@ -53,13 +55,13 @@ https://github.com/bryanalunosenac-boop/Senac.git
 -Melhorar a aparência do carrinho
 
 ---
-## 👨🏻‍💼 O que eu aprendi?
+## 🎸 O que eu aprendi?
 
 -Responsividade e layout com CSS
 -Estrutura e validação de códigos com JavaScript
 
 ---
-## 🖌️ Autor
+## 🎸 Autor
 
 Ana Gabriela De Oliveira Moura
 
